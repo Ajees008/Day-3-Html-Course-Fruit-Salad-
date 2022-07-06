@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=The+Nautigal&display=swap');
+*{
+    margin:0%;
+    padding:0% ;
+}
+body{
+    font-family: 'The Nautigal', cursive;
+    background: #8dcbd6;
+    height: 100vh;
+    width: 100vw;
+}
+h1{
+    font-size: 8vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    font-size: 4vh;
+}
+li{
+    font-size: 4vh;
+}
+ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#vegetableSaladImage{
+    height: 50vh;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  border: 2px  solid black;
+  padding: 20px 20px 20px 20px;
+  }
+  div{
+  margin: auto;
+  width: 80%;
+  }
+#footerText{
+    font-size: 3vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#titleName{
+    font-size: 10vh;
+}
